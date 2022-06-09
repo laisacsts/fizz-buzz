@@ -1,21 +1,16 @@
-# FizzBuzz
+# FizzBuzz in Elixir 💜
 
-**TODO: Add description**
+**Projeto feito no curso de elixir do Rafael Camarda** || [Curso disponível aqui](https://www.udemy.com/share/103ra03@5HkFRmhJqB-v9c93uWkw6ELsQBKZM_avowNh4L0Fjys_0OhWRGZ6vTWKc3QoEKMp1A==/)
 
-## Installation
+## Contexto
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `fizz_buzz` to your list of dependencies in `mix.exs`:
+Dada uma lista de números é esperado que:
 
-```elixir
-def deps do
-  [
-    {:fizz_buzz, "~> 0.1.0"}
-  ]
-end
-```
+ * Múltiplos de 3 sejam substituídos por __Fizz__
+ * Múltiplos de 5 sejam substituídos por __Buzz__
+ * Múltiplos de 3 e 5 sejam substituídos por __FizzBuzz__
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/fizz_buzz>.
+##
+
+
 
