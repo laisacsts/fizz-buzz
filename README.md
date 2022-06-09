@@ -4,13 +4,18 @@
 
 ## Contexto
 
-Dada uma lista de números é esperado que:
+Dada uma lista de números é esperado que ao fazer a leitura do arquivo:
 
  * Múltiplos de 3 sejam substituídos por __Fizz__
  * Múltiplos de 5 sejam substituídos por __Buzz__
  * Múltiplos de 3 e 5 sejam substituídos por __FizzBuzz__
 
 ##
+## __Arquivo .txt com a lista de números__
+<p align="center">
+  <img alt="lista fizzbuzz" src="https://github.com/laisacsts/images-gifs-others/blob/main/listanumeros.gif">
+</p>
 
+##
 
 
