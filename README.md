@@ -17,5 +17,12 @@ Dada uma lista de números é esperado que ao fazer a leitura do arquivo:
 </p>
 
 ##
+## __Fazendo a leitura da lista e executando as substituições__
+<p align="center">
+  <img alt="lista fizzbuzz" src="https://github.com/laisacsts/images-gifs-others/blob/main/fizzbuzzterm.gif">
+</p>
+
+
+
 
 
